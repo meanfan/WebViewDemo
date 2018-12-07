@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeanBrowser</string>
+    <string name="address_btn_go">＞</string>
+    <string name="address_btn_cancel">×</string>
+</resources>
